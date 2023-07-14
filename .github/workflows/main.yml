@@ -11,12 +11,12 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: beiyuouo/readme-action@main
+      - uses: zyl/readme-action@main
         with:
-          blog_rss_link: https://blog.bj-yan.top/index.xml
+          blog_rss_link: https://www.ydbo.cn/rss/feed.xml
           blog_limit: 5
           blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
-          douban_name: 179948994
+          douban_name: 184018222
           douban_limit: 5
           commit_message: Update readme rss by readme-action
           time_zone: "Asia/Shanghai"
