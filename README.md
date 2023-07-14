@@ -51,4 +51,7 @@
 <!-- END_SECTION:douban -->
 </td>
 </tr>
-<tr>
+<!-- START_SECTION:github-xxx -->
+<!-- END_SECTION:github-xxx -->
+
+</table>
