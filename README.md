@@ -22,7 +22,7 @@
 
 <!-- markdownlint-disable -->
 
-- 🔭 I’m a postgraduate student [**@**](http://www.szu.edu.cn/)SZU.
+- 🔭 I’m a postgraduate student [**@**](http://www.szu.edu.cn/)[SZU].
 - 🌱 My current research interests are focus on  computer vision, edge computing, and distributed systems.
 - 📫 You can reach me at [zylbing@qq.com](mailto:zylbing@qq.com).
 - 🎨 I am glad to share and communicate with you.
