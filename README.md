@@ -34,6 +34,21 @@
 
 <!-- languages:end -->
 
-<table width="100%" align="center" padding="0" margin="0">
+<table width="100%" align="center">
 <tr>
 <td valign="top" width="50%">
+
+#### 🤹‍♀️ <a href="https://ydbo.cn/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+</td>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ <a href="https://www.douban.com/people/184018222/" target="_blank">Funny Soul</a>
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+</td>
+</tr>
+<tr>
