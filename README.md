@@ -41,6 +41,13 @@
 #### 🤹‍♀️ <a href="https://ydbo.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+| Date | Title |
+| :-: | :---: |
+| Sat, 01 Oct 2022 00:00:00 GMT | <a href='https://www.ydbo.cn/article/algorithm' target='_blank'>算法学习记录</a> |
+| Mon, 26 Jun 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/ai_painting' target='_blank'>AI绘画Stable Diffusion上手</a> |
+| Mon, 26 Jun 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/machine_learning' target='_blank'>机器学习基础知识</a> |
+| Mon, 26 Jun 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/python' target='_blank'>Python</a> |
+| Fri, 30 Jun 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/tools' target='_blank'>效率工具</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -48,6 +55,13 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/184018222/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+| Date | Title |
+| :-: | :---: |
+| 2023-06-05 | 在看👀 <a href='http://movie.douban.com/subject/36247982/' target='_blank'>0.5的男人</a> ⭐⭐⭐⭐ |
+| 2023-05-31 | 想看🤔 <a href='http://movie.douban.com/subject/35420025/' target='_blank'>小谢尔顿 第七季</a>  |
+| 2023-05-31 | 看过😎 <a href='http://movie.douban.com/subject/35420024/' target='_blank'>小谢尔顿 第六季</a> ⭐⭐⭐⭐⭐ |
+| 2023-03-04 | 看过😎 <a href='http://movie.douban.com/subject/30181462/' target='_blank'>亢奋 第一季</a> ⭐⭐ |
+| 2022-10-18 | 看过😎 <a href='http://movie.douban.com/subject/35420023/' target='_blank'>小谢尔顿 第五季</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
