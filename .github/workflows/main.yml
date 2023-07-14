@@ -11,7 +11,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zyl/readme-action@main
+      - uses: zyl9737/readme-action@main
         with:
           blog_rss_link: https://www.ydbo.cn/rss/feed.xml
           blog_limit: 5
