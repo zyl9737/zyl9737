@@ -15,7 +15,7 @@ jobs:
         with:
           blog_rss_link: https://www.ydbo.cn/rss/feed.xml
           blog_limit: 5
-          blog_time_format: "%a, %d %b %Y %z"
+          blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
           douban_name: 184018222
           douban_limit: 5
           commit_message: Update readme rss by readme-action
