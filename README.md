@@ -57,11 +57,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-05 | 在看👀 <a href='http://movie.douban.com/subject/36247982/' target='_blank'>0.5的男人</a> ⭐⭐⭐⭐ |
-| 2023-05-31 | 想看🤔 <a href='http://movie.douban.com/subject/35420025/' target='_blank'>小谢尔顿 第七季</a>  |
-| 2023-05-31 | 看过😎 <a href='http://movie.douban.com/subject/35420024/' target='_blank'>小谢尔顿 第六季</a> ⭐⭐⭐⭐⭐ |
-| 2023-03-04 | 看过😎 <a href='http://movie.douban.com/subject/30181462/' target='_blank'>亢奋 第一季</a> ⭐⭐ |
-| 2022-10-18 | 看过😎 <a href='http://movie.douban.com/subject/35420023/' target='_blank'>小谢尔顿 第五季</a> ⭐⭐⭐⭐⭐ |
+
 <!-- END_SECTION:douban -->
 </td>
 </tr>
