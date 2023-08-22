@@ -43,11 +43,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| Wed, 26 Jul 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/deepfake' target='_blank'>论文解读:Detecting and Grounding Multi-Modal Media Manipulation</a> |
+| Wed, 09 Aug 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/bigmodel' target='_blank'>Datawhale AI 夏令营 AICG</a> |
 | Tue, 04 Jul 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/pytorch' target='_blank'>ML实践（Pytorch篇）</a> |
 | Sat, 01 Oct 2022 00:00:00 GMT | <a href='https://www.ydbo.cn/article/algorithm' target='_blank'>算法学习记录</a> |
-| Mon, 31 Jul 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/abstract-of-the-paper' target='_blank'>Datawhale AI 夏令营 NLP赛事实践—基于论文摘要的文本分类与关键词抽取挑战赛</a> |
-| Fri, 30 Jun 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/tools' target='_blank'>效率工具</a> |
-| Fri, 21 Jul 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/PET2' target='_blank'>Datawhale AI 夏令营 CV 赛事实践（二）CNN原理与进阶技巧以及冲分思路（长期赛第4）</a> |
+| Fri, 18 Aug 2023 00:00:00 GMT | <a href='https://www.ydbo.cn/article/ai4bio' target='_blank'>Datawhale AI 夏令营第三期 AI for Science 生物学年龄评价与年龄相关疾病风险预测</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
