@@ -57,11 +57,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-01 | 看过😎 <a href='http://movie.douban.com/subject/36156235/' target='_blank'>重启人生</a> ⭐⭐⭐⭐⭐ |
+| 2023-09-01 | 看过😎 <a href='http://movie.douban.com/subject/35593344/' target='_blank'>奥本海默</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-25 | 读过🤓 <a href='https://book.douban.com/subject/30164685/' target='_blank'>网</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/34670642/' target='_blank'>我的事说来话长</a> ⭐⭐⭐⭐⭐ |
 | 2023-06-05 | 在看👀 <a href='http://movie.douban.com/subject/36247982/' target='_blank'>0.5的男人</a> ⭐⭐⭐⭐ |
-| 2023-05-31 | 想看🤔 <a href='http://movie.douban.com/subject/35420025/' target='_blank'>小谢尔顿 第七季</a>  |
-| 2023-05-31 | 看过😎 <a href='http://movie.douban.com/subject/35420024/' target='_blank'>小谢尔顿 第六季</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
