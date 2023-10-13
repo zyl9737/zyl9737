@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: zyl9737/readme-action@main
         with:
-          blog_rss_link: https://www.ydbo.cn/rss/feed.xml
+          blog_rss_link: hhttps://yulong.buzz/rss/feed.xml
           blog_limit: 5
           blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
           douban_name: 184018222
