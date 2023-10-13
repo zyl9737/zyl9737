@@ -22,7 +22,7 @@
 
 <!-- markdownlint-disable -->
 
-- 🔭 I’m a postgraduate student [**@SZU**](http://www.szu.edu.cn/).
+- 🔭 I’m a postgraduate student @[**SZU**](http://www.szu.edu.cn/).
 - 🌱 My current research interests are focus on  computer vision, edge computing, and distributed systems.
 - 📫 You can reach me at [zylbing@qq.com](mailto:zylbing@qq.com).
 - 🎨 I am glad to share and communicate with you.
@@ -38,7 +38,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://ydbo.cn/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://yulong.buzz/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 | Date | Title |
