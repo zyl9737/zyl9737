@@ -3,8 +3,8 @@
 <p align="center">
   <samp>
     <a href="https://www.ydbo.cn/nav">homepage</a> ∙
-    <a href="https://ydbo.cn/">blog</a> ∙
-    <a href="https://ydbo.cn/links">nav</a> ∙
+    <a href="https://yulong.buzz/">blog</a> ∙
+    <a href="https://yulong.buzz/links">nav</a> ∙
     <a href="https://github.com/zyl9737">github</a> ∙ 
     <a href="https://space.bilibili.com/417306008">bilibili</a>
   </samp>
