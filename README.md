@@ -43,7 +43,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
-
+| Wed, 26 Jul 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/dgm' target='_blank'>论文解读:Detecting and Grounding Multi-Modal Media Manipulation</a> |
+| Tue, 04 Jul 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/pytorch' target='_blank'>ML实践（Pytorch篇）</a> |
+| Sat, 01 Oct 2022 00:00:00 GMT | <a href='https://www.yulong.buzz/article/algorithm' target='_blank'>算法学习记录</a> |
+| Mon, 31 Jul 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/abstract-of-the-paper' target='_blank'>Datawhale AI 夏令营 NLP赛事实践—基于论文摘要的文本分类与关键词抽取挑战赛</a> |
+| Mon, 28 Aug 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/multimodal_learning' target='_blank'>多模态学习(MultiModal Learning)</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
