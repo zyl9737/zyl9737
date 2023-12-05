@@ -43,11 +43,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
-| Wed, 08 Nov 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/x_clip' target='_blank'>X-CLIP: Expanding Language-Image Pretrained Models for General Video Recognition</a> |
-| Sat, 14 Jan 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/java' target='_blank'>Java语言学习</a> |
-| Sat, 01 Oct 2022 00:00:00 GMT | <a href='https://www.yulong.buzz/article/algorithm' target='_blank'>算法学习记录</a> |
-| Mon, 31 Jul 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/abstract-of-the-paper' target='_blank'>Datawhale AI 夏令营 NLP赛事实践—基于论文摘要的文本分类与关键词抽取挑战赛</a> |
+| Wed, 08 Nov 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/x_clip' target='_blank'>论文解读：X-CLIP: Expanding Language-Image Pretrained Models for General Video Recognition</a> |
+| Sun, 25 Sep 2022 00:00:00 GMT | <a href='https://www.yulong.buzz/article/notion-short-key' target='_blank'>Notion快捷键</a> |
 | Mon, 16 Oct 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/n_explain' target='_blank'>科研名词解释</a> |
+| Fri, 30 Jun 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/tools' target='_blank'>效率工具</a> |
+| Fri, 20 Jan 2023 00:00:00 GMT | <a href='https://www.yulong.buzz/article/linux2' target='_blank'>Linux基础（二）tmux和vim</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
