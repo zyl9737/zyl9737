@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.ydbo.cn/nav">homepage</a> ∙
+    <a href="https://yulong.buzz/nav">homepage</a> ∙
     <a href="https://yulong.buzz/">blog</a> ∙
     <a href="https://yulong.buzz/links">nav</a> ∙
     <a href="https://github.com/zyl9737">github</a> ∙ 
@@ -34,7 +34,7 @@
 
 <!-- languages:end -->
 
-<table width="100%" align="center">
+<table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
 
@@ -68,4 +68,6 @@
 <!-- START_SECTION:github-xxx -->
 <!-- END_SECTION:github-xxx -->
 
+</td>
+</tr>
 </table>
