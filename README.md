@@ -1,8 +1,7 @@
-root@yulong:~$ whoami
-Yulong Zheng (Master's @ SZU)
-
-root@yulong:~$ cat research_focus
-[AIOps, Multimedia Forensics, Video Gen, AIGC Detection]
-
-root@yulong:~$ echo $LANGUAGES
-Python, Java, Rust
+```yaml
+name:  Ryuzen
+edu:   Master's @ Shenzhen University
+focus:
+  - Multimedia Forensics
+  - AIOps & AIGC Detection
+stack: [Python, Java, Rust]
