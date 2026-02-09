@@ -1,6 +1,6 @@
 ```yaml
 name:  Ryuzen
-edu:   Master's @ Shenzhen University
+edu:   Master's @ SZU
 focus:
   - Multimedia Forensics
   - AIOps & AIGC Detection
