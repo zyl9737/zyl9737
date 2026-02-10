@@ -1,6 +1,7 @@
-```yaml
-name:  Ryuzen
-edu:   Master's @ SZU
+name: Yulong
+edu:
+  - MS @ SZU
+  - BS @ NEU
 focus:
   - Multimedia Forensics
   - AIOps & AIGC Detection
