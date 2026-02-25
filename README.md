@@ -1,5 +1,5 @@
 ```
-name: Yulong
+name: Ryuzen
 edu:
   - MS @ SZU
   - BS @ NEU
